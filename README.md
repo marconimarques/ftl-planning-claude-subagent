@@ -1,4 +1,4 @@
-# Full Truck Load (FTL) Planning
+# Full Truck Load (FTL) Planning with Claude Subagent
 
 A Python CLI tool that calculates the minimum truck fleet required to serve a logistics network, and lets you explore operational scenarios via a natural language interface. The interface runs in **English** and **Portuguese (Brasil)** — switch at any time with `/language pt_BR` or `/language en`.
 
